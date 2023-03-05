@@ -22,7 +22,7 @@ title: Fitness Path
 email: stamatis.thomas.software@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Fitness Path site
-baseurl: "Fitness-Path" # the subpath of your site, e.g. /blog
+baseurl: "/Fitness-Path" # the subpath of your site, e.g. /blog
 url: "https://strogera.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings

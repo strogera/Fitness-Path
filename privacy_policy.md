@@ -1,6 +1,8 @@
+---
 layout: page
 title: "Privacy Policy"
 permalink: https://strogera.github.io/Fitness-Path/privacy-policy.md
+---
 
 **Privacy Policy**
 
