@@ -1,6 +1,5 @@
 ---
 layout: page
-title: "Terms & Conditions"
 ---
 
 **Terms & Conditions**
