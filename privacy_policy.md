@@ -1,3 +1,7 @@
+layout: page
+title: "Privacy Policy"
+permalink: https://strogera.github.io/Fitness-Path/privacy-policy.md
+
 **Privacy Policy**
 
 Stamatis Thomas built the Fitness Path app as a Freemium app. This SERVICE is provided by Stamatis Thomas at no cost and is intended for use as is.
