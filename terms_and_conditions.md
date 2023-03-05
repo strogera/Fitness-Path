@@ -1,7 +1,6 @@
 ---
 layout: page
 title: "Terms & Conditions"
-permalink: https://strogera.github.io/Fitness-Path/terms_and_conditions.md
 ---
 
 **Terms & Conditions**
